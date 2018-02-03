@@ -1,0 +1,15 @@
+{
+  "name": "tough-cookie-filestore2",
+  "version": "1.0.0",
+  "description": "another file store for tough-cookie",
+  "main": "index.js",
+  "author": "Stanley Xu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stanleyxu2005/tough-cookie-filestore2.git"
+  },
+  "dependencies": {
+    "tough-cookie": "^2.3.3"
+  }
+}
