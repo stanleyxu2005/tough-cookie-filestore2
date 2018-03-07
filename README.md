@@ -1,5 +1,7 @@
 # File Cookie Store
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stanleyxu2005/tough-cookie-filestore2.svg)](https://greenkeeper.io/)
+
 As the original `tough-cookie-filestore` seems to be inactive. I have to create another 
 implementation of File store with more security consideration for `tough-cookie` module. See 
 [tough-cookie documentation](https://github.com/goinstant/tough-cookie#constructionstore--new-memorycookiestore-rejectpublicsuffixes) for more info.
